@@ -7,7 +7,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/brankomiric/transaction-parser/utils"
+	"github.com/brankomiric/transactions-parser/utils"
 )
 
 var defaultRpc = "https://mainnet.infura.io/v3/c9657d3c5621495c9f6b60c3913df958"
