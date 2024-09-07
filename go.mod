@@ -1,3 +1,3 @@
-module github.com/brankomiric/transaction-parser
+module github.com/brankomiric/transactions-parser
 
 go 1.22.5
